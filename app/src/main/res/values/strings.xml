@@ -1,0 +1,18 @@
+<!--string definition-->
+
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="instructions">
+        How To Use:\n\n1. Enter your initial balance and
+        click "Initialize Account" to create account with
+        the balance.\n2. Enter transaction amount and press
+        Deposit/Withdraw button to perform operation on
+        current balance.</string>
+    <string name="title">BANK TRANSACTION DEMO</string>
+    <string name="current_balance">Current Balance: $0.00</string>
+    <string name="button0">Initialize Account</string>
+    <string name="button1">Deposit</string>
+    <string name="button2">Withdraw</string>
+    <string name="text_field1">Enter Initial Balance</string>
+    <string name="text_field2">Enter Transaction Amount</string>
+</resources>
