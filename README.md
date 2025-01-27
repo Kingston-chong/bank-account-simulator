@@ -44,14 +44,3 @@ This is a simple mobile application built using Kotlin in Android Studio. The ap
 - Deposits must be positive values.
 - Withdrawals cannot exceed the current balance.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## Contact
-For any questions or suggestions, feel free to reach out:
-- Email: your.email@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
-
